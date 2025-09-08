@@ -1,24 +1,23 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 119052419,
+    "name": "Elekes II",
+    "author": "Symmetrics",
+    "verifier": "Symmetrics",
+    "verification": "https://youtu.be/C3KZE8OJPq4?si=Qn2_4T_KcbBjfvcl",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Glassinik",
+            "link": "https://youtu.be/cTBKBhZNtfw?si=VbanG6NBbvMMD_7V",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Kon Stafen",
+            "link": "https://www.tiktok.com/@konstafen_elmi/video/7505562158646693142?is_from_webapp=1&sender_device=pc&web_id=7356316032770016800",
             "percent": 100,
-            "hz": 120
+            "hz": 240
         }
     ]
 }
