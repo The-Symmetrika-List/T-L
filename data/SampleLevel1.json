@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 119159825,
+    "name": "Elekes III",
+    "author": "Symmetrics",
+    "creators": ["Symmetrics"],
+    "verifier": "Symmetrics",
+    "verification": "https://youtu.be/-G-E3t3LUDw?si=21dDistoGLrqqWlR",
+    "percentToQualify": 100,
+    "password": "idk",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Glassinik",
+            "link": "https://youtu.be/zSHbl-qE0ac?si=CVCJxCf2FB1ruG2h",
             "percent": 100,
             "hz": 360
         }
