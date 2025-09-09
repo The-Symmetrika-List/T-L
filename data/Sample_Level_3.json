@@ -1,23 +1,19 @@
+
 {
     "id": 119052419,
     "name": "Elekes II",
     "author": "Symmetrics",
+    "creators": ["Symmetrics"],
     "verifier": "Symmetrics",
     "verification": "https://youtu.be/C3KZE8OJPq4?si=Qn2_4T_KcbBjfvcl",
-    "percentToQualify": "100",
+    "percentToQualify": 100,
     "password": "free to copy",
     "records": [
         {
             "user": "Glassinik",
-            "link": "https://youtu.be/cTBKBhZNtfw?si=VbanG6NBbvMMD_7V",
+            "link": "https://youtu.be/zSHbl-qE0ac?si=CVCJxCf2FB1ruG2h",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "Kon Stafen",
-            "link": "https://www.tiktok.com/@konstafen_elmi/video/7505562158646693142?is_from_webapp=1&sender_device=pc&web_id=7356316032770016800",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
