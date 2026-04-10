@@ -8,5 +8,11 @@
     "verification": "https://youtu.be/e-dWOVQtayo",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Snale Lorde",
+            "link": "https://youtu.be/rSYuFW7sLrg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
